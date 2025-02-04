@@ -1,23 +1,26 @@
-Fork from Alicja Musiał great Rocket model!
-I only made a crude stl modification to improve the thread strength of the bottom part and 
-made a shorter center core to conserve weight for flying weak A6-4 motors.
-(With the these motors it will just work. Flies 35m and opens half way down just in time)
+## Fork from Alicja Musiał great Rocket model!
 
-To conserve weight i printed it with a single perimeter and 10% infill, and reduced the infill anchor lenght to a quarter.
-I used 5mm brims on the bottom part to keep it attached to the print bed. 
+I only made crude stl modifications to improve:
+- the thread strength of the bottom part 
+- a shorter center core to conserve weight for flying weak A6-4 motors.
+  (With the these motors it will just work. Flies 35m and opens half way down just in time)
+
+New files:
+- `rocket_A-1_short.ork`: simulation model for shorter verion, please adapt your weights!
+- `3D_printable_components\Body_short.stl`: shorter version of center core
+
+To conserve weight I printed it with a single perimeter and 10% infill, and reduced the infill anchor lenght to a quarter.
+I used 5mm brims on the bottom part to keep it attached to the print bed. Printed on X1Carbon and Vyper
 If the recovery wadding is properly reinstalled after the first flight, the center core will survive a couple of starts.
 
 Will try to print it in LW-PLA at some point in time.
 
 Copyright 2021 @alicjamusial. 
 
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
-
-http://creativecommons.org/licenses/by-sa/4.0/
-
-Attribution-ShareAlike 4.0 International
-
-Website from Alicja: https://alicja.space/projects/rocket-a-1/
+- This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. 
+- http://creativecommons.org/licenses/by-sa/4.0/ 
+- Attribution-ShareAlike 4.0 International 
+- Website from Alicja: https://alicja.space/projects/rocket-a-1/
 
 Original text:
 # Rocket A-1 - 3D printed flying model rocket
