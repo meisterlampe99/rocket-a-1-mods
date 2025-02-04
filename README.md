@@ -9,10 +9,14 @@ If the recovery wadding is properly reinstalled after the first flight, the cent
 
 Will try to print it in LW-PLA at some point in time.
 
-Copyright 2021 @alicjamusial
+Copyright 2021 @alicjamusial. 
+
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
 http://creativecommons.org/licenses/by-sa/4.0/
+
 Attribution-ShareAlike 4.0 International
+
 Website from Alicja: https://alicja.space/projects/rocket-a-1/
 
 Original text:
