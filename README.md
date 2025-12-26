@@ -1,7 +1,11 @@
 ## Fork from Alicja Musiał great Rocket model!
 
-I only made crude stl modifications to improve:
-- the thread strength of the bottom part 
+Implemented crude .stl fixes for known issues originally mentioned by Alicja.
+- Launch lug now on bottom part, and removed from short and original body parts.
+- Hook added to nose cone.
+
+Also made these modifications
+- increased the thread strength of the bottom part 
 - a shorter center core to conserve weight for flying weak A6-4 motors.
   (With the these motors it will just work. Flies 35m and opens half way down just in time)
 
@@ -10,7 +14,9 @@ New files:
 - `3D_printable_components\Body_short.stl`: shorter version of center core
 
 To conserve weight I printed it with a single perimeter and 10% infill, and reduced the infill anchor lenght to a quarter.
-I used 5mm brims on the bottom part to keep it attached to the print bed. Printed on X1Carbon and Vyper
+I used 5mm brims on the bottom part to keep it attached to the print bed. Printed on Bambulab X1Carbon and Anycubic Vyper.
+If holes at deretraction points of the outer perimeter appear, try minimal amounts of "extra lenght on deretraction" (e.g. 0.04mm)
+
 If the recovery wadding is properly reinstalled after the first flight, the center core will survive a couple of starts.
 
 Will try to print it in LW-PLA at some point in time.
