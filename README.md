@@ -28,7 +28,11 @@ Copyright 2021 @alicjamusial.
 - Attribution-ShareAlike 4.0 International 
 - Website from Alicja: https://alicja.space/projects/rocket-a-1/
 
-Original text:
+Render of assembled short version rocket with original body next to it:
+![schema](images/modified.png)
+
+
+Original description by Alicja:
 # Rocket A-1 - 3D printed flying model rocket
 
 ![schema](images/rocket_model.png)
